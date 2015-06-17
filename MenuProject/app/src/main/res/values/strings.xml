@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MenuProject</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_help">HelpActivity</string>
+    <string name="action_about">Help</string>
+    <string name="title_activity_share_the_love">ShareTheLove</string>
+    <string name="title_activity_new">NewActivity</string>
+</resources>
